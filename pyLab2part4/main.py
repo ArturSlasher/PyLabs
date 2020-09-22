@@ -2,7 +2,6 @@ import math
 import random
 
 x = random.uniform(-2,2)
-print(x)
 
 y = 228
 if x < 0:
