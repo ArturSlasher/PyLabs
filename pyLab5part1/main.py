@@ -1,0 +1,8 @@
+print("Когда у вас День ождения?")
+print("Год: ")
+year = input()
+print("Месяц")
+month = input()
+print("День")
+day = input()
+print("Ваш день рождения: " + day + "." + month + "." + year)
