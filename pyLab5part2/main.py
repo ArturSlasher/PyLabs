@@ -1,0 +1,12 @@
+print("Enter m: ")
+m = input()
+print("Enter n: ")
+n = input()
+print("Enter k: ")
+k = input()
+m = int(m)
+n = int(n)
+k = int(k)
+
+result = (m // k) * (n // k)
+print("Number of squares =", result)
